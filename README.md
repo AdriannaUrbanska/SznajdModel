@@ -16,5 +16,5 @@ Poniżej przedstawiona została zawartość katalogów umieszczonych w repozytor
 ### src/soc/
 * plik zawierający definicję projektu w formacie .pro
 
-### src/source
+### src/source/
 * pliki źródłowe programu
