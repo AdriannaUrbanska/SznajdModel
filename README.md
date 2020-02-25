@@ -1,6 +1,8 @@
 # Model Sznajdów
 
 Projekt przedstawia program symulujący model Sznajdów napisany w języku C++ w środowisku programistycznym Qt Creator.
+
+
 Więcej informacji na temat modelu Sznajdów: [link](https://en.wikipedia.org/wiki/Sznajd_model).
 
 Poniżej przedstawiona została zawartość katalogów umieszczonych w repozytorium.
